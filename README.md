@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет! Я Елена Казакова 👋
 
-<!--
-**Elena-Kazakova-analyst/Elena-Kazakova-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Математик по образованию и аналитик по призванию с 10-летним опытом в финтехе (Сбер). Специализируюсь на сборе требований, автоматизации отчетности и создании Data-решений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Портфолио и документы
+
+Все мои резюме и сертификаты (ТГУ, СберУниверситет) собраны в одном месте:
+
+> * Полное резюме в PDF 🔗 **[Google Drive – Папка с документами](ССЫЛКА_НА_ВАШ_ДИСК)**
+> * Сертификаты о прохождении курсов (Python, SQL, Java) 🔗 **[Google Drive – Папка с документами](ССЫЛКА_НА_ВАШ_ДИСК)**
+
+
+---
+
+## 🎓 Образование
+
+
+| Период | Учебное заведение | Направление / Степень |
+| :--- | :--- | :--- |
+| 2025 | **ТГУ (Томск)** | Data-аналитика: Python и SQL в бизнесе |
+| До 2025 | **СберУниверситет** | основы Java и Java: Объектно-ориентированное программирование |
+| — | **СПбГМТУ** | Высшее математическое образование |
+
+---
+
+## 🛠 Технологический стек
+
+- **Языки:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Java (Base)
+- **Инструменты:** Power BI, Tableau, Yandex DataLens
+- **Работа с данными:** Google Sheets (Advanced), Excel
+- **Soft Skills:** Сбор требований, управление бизнес-процессами (7 лет зам. руководителя в Сбере)
+
+---
+
+## 📫 Как со мной связаться:
+- **Telegram:** [@eleno4ka_svd]
+- **Email:** [eleno4ka_svd@mail.ru]
+
